@@ -1,4 +1,4 @@
-# Smart Contract for Multi-Owner Account with Withdrawal Approval
+# Decentralized Bank Account
 
 This repository contains a straightforward Ethereum smart contract developed in Solidity, tested using TypeScript, and equipped with a minimalistic frontend to facilitate user interaction. The smart contract enables users to create an account with multiple owners. To make a withdrawal, an owner must initiate a request for approval, and all other owners must grant their consent before the withdrawal can proceed.
 
